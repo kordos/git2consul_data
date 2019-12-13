@@ -1,1 +1,9 @@
-sample: configuration
+first_level:
+  v1_1: value1_1
+  v1_2: value1_2
+  second_level:
+    v2_1: value2_1
+    v2_2: value2_2
+    third_level:
+      v3_1: value3_1
+
