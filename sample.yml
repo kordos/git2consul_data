@@ -7,7 +7,7 @@ first_level:
     third_level:
       v3_1: value3_1
   tokens:
-    0: first
-    1: second
-    2: third
+    v0: first
+    v1: second
+    v2: third
 
