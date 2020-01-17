@@ -6,4 +6,8 @@ first_level:
     v2_2: value2_2
     third_level:
       v3_1: value3_1
+  tokens:
+    - first
+    - second
+    - third
 
